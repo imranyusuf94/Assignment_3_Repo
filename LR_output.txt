@@ -1,4 +1,4 @@
-Split           Train         Test
+K-Fold Split    Train         Test
 --------------  ------------  ------------
 1               97.1%         39.8%
 2               96.6%         66.7%
